@@ -1,0 +1,17 @@
+{
+    "sample_id": "000058",
+    "split": "train",
+    "files": {
+        "layout": "train/layout/000058.png",
+        "mask": "train/mask/000058.png",
+        "resist": "train/resist/000058.png",
+        "adi": "train/adi/000058.jpg",
+        "source": "train/source/Annular.png"
+    },
+    "process_parameters": {
+        "source_type": "Annular",
+        "resist_threshold": 0.1236402,
+        "focus_nm": 0,
+        "exposure_dose": 1.0
+    }
+}
