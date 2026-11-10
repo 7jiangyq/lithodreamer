@@ -67,7 +67,7 @@ LithoDreamer-Dataset/
 
 ## 4. Dataset Splits
 
-- **train:** 280,000 samples covering all 36 process configurations
+- **train:** 260,000 samples covering all 36 process configurations
 - **test_in_domain:** 20,000 samples from the same configuration set
 - **test_ood_55nm:** unseen process configuration at 55 nm
 - **test_ood_28nm_lithosim:** public LithoSim dataset (cross-node OOD)
